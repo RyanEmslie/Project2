@@ -52,13 +52,13 @@ $(document).ready(function () {
 });
 
 
-//Fuction attempts to substitue humor for skill
+/*Fuction attempts to substitue humor for skill
 $(document).ready(function() {
     $('.student-search button').click(function(eval) {
         alert('Under Construction.  Please check back after I have completed my TechDegree!');
     });
 });
-
+*/
 
 
 //Initalizes the showPage() displaying students numbered 1 through up to 10 
